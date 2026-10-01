@@ -1,0 +1,11 @@
+{
+  // Hiện thư mục .git trong Explorer (VS Code mặc định ẩn nó)
+  "files.exclude": { "**/.git": false },
+  // Theo dõi cả .git/objects để object mới hiện ra ngay sau git add / git commit
+  "files.watcherExclude": { "**/.git/objects/**": false },
+  // Hiện đủ từng cấp thư mục, không gộp kiểu "refs/heads" thành một dòng
+  "explorer.compactFolders": false,
+  // Xuống dòng kiểu LF và có dòng trống cuối file, để hash giống nhau trên mọi máy
+  "files.eol": "\n",
+  "files.insertFinalNewline": true
+}
