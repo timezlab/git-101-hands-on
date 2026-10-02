@@ -1,0 +1,9 @@
+body { font: 16px/1.6 system-ui, sans-serif; color: #1f2933; max-width: 720px; margin: 0 auto; padding: 24px 16px 48px; }
+header { background: #0b4f8a; color: #fff; padding: 24px; border-radius: 12px; }
+header h1 { margin: 0 0 4px; font-size: 26px; line-height: 1.25; }
+header p { margin: 0; opacity: .85; }
+#search { width: 100%; box-sizing: border-box; margin: 16px 0 6px; padding: 10px 12px; font: inherit; border: 0; border-radius: 8px; }
+#count { font-size: 14px; }
+section { padding: 16px 0; border-bottom: 1px solid #e4e7eb; }
+h2 { margin: 0 0 4px; font-size: 20px; }
+p { margin: 4px 0; }
